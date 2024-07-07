@@ -1,4 +1,4 @@
-package com.raychen.blog
+package com.raychen.blog.model
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue;

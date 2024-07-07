@@ -1,4 +1,6 @@
-package com.raychen.blog
+package com.raychen.blog.controller
+import com.raychen.blog.PostService
+import com.raychen.blog.model.Post
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.*
 

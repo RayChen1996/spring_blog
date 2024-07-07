@@ -1,6 +1,7 @@
 package com.raychen.blog
 
-import org.springframework.beans.factory.annotation.Autowired
+import com.raychen.blog.model.Post
+import com.raychen.blog.repository.PostRepository
 import org.springframework.stereotype.Service
 
 
